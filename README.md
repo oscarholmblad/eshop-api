@@ -5,7 +5,7 @@ Ett REST API för en produktkatalog i en e-shop. Hanterar produkter och kategori
 ## Projektbeskrivning
 
 Inlämning 1 i kursen API-utveckling. Målet har varit att göra ett normaliserat ER-diagram
-och ett API med CRUD för produkter och kategorier, enligt kraven för VG-nivå.
+och ett API med CRUD för produkter och kategorier.
 
 En produkt kan tillhöra flera kategorier, vilket löses med en kopplingstabell.
 
